@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaildrs&label=Profile%20views&color=0e75b6&style=flat" alt="ismaildrs" /> </p>
 
-- 🔭 I’m currently working on **Portfolio website**
+- 🔭 I’m currently working on **Game Engine**
 
-- 🌱 I’m currently learning **Boostrap, ReactJS**
+- 🌱 I’m currently learning **OpenGL**
 
 - 📫 How to reach me **drissiisismail@gmail.com**
 
-- ⚡ Fun fact **I consider myself quite athletic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
