@@ -24,7 +24,6 @@
 
 
 ### Glad to see you here!  
-Hello there,
 
 My name is Ismail, and I am currently pursuing a degree in Software Engineering in Morocco. Driven by a strong sense of discipline and an insatiable curiosity, I approach every day with enthusiasm and a commitment to growth. These qualities fuel my passion for exploring the ever-evolving field of software engineering, allowing me to continuously enhance my knowledge and refine my skills.
 
