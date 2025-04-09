@@ -32,10 +32,9 @@ I’m eager to connect with like-minded professionals and learn from new challen
 
 <br/>  
 
-<div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI1dXRvaDA3NGowaGZpbDR3M3I0b3RnN2tjMWFuazJxbGRybnMxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TNf5oSRelTeI8/giphy.gif" align="center" style="width: 100%; height: 100%" />
-</div>  
-
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI1dXRvaDA3NGowaGZpbDR3M3I0b3RnN2tjMWFuazJxbGRybnMxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TNf5oSRelTeI8/giphy.gif" width="100%"/>
+</p>
 
 <br/>
 
