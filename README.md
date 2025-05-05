@@ -29,13 +29,6 @@ My name is Ismail, and I am currently pursuing a degree in Software Engineering 
 
 I’m eager to connect with like-minded professionals and learn from new challenges and opportunities in this dynamic industry.  
   
-
-<br/>  
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI1dXRvaDA3NGowaGZpbDR3M3I0b3RnN2tjMWFuazJxbGRybnMxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TNf5oSRelTeI8/giphy.gif" width="100%"/>
-</p>
-
 <br/>
 
 ## Languages and Tools  
