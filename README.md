@@ -60,11 +60,11 @@ I’m eager to connect with like-minded professionals and learn from new challen
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
   
-![ismaildrs's Stats](https://github-readme-stats.vercel.app/api?username=ismaildrs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ismaildrs's Stats](https://github-readme-stats.vercel.app/api?username=ismaildrs&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 </td><td valign="top" width="50%">
 
-![ismaildrs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaildrs&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![ismaildrs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaildrs&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 </td></tr></table>  
 
