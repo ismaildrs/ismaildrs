@@ -1,6 +1,3 @@
-## Hey 👋, I'm Ismail Drissi!  
-  
-
 <a href="https://twitter.com/isDrissismail" target="_blank">
 <img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
 </a>
@@ -21,19 +18,11 @@
 <a href="https://gitlab.com/drissiisismail" target="_blank">
 <img src=https://img.shields.io/badge/GitLab-FC6D26?&style=for-the-badge&logo=gitlab&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-
-
-
-### Glad to see you here!  
-
-My name is Ismail, and I am currently pursuing a degree in Software Engineering in Morocco. Driven by a strong sense of discipline and an insatiable curiosity, I approach every day with enthusiasm and a commitment to growth. These qualities fuel my passion for exploring the ever-evolving field of software engineering, allowing me to continuously enhance my knowledge and refine my skills.
-
-I’m eager to connect with like-minded professionals and learn from new challenges and opportunities in this dynamic industry.  
   
-<br/>
+<!-- <br/> -->
 
-## Languages and Tools  
-<div align="center">  
+<!-- ## Languages and Tools -->  
+<!-- <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="40" /></a>  
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="40" /></a>  
@@ -52,8 +41,8 @@ I’m eager to connect with like-minded professionals and learn from new challen
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a>  
-</div>
+</div> -->
 
 
-<br/>  
+<!-- <br/>   -->
 
